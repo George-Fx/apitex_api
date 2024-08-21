@@ -14,7 +14,7 @@
             "amount": -245.27,
             "currency": "USD",
             "transactionType": "debit",
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+            "icon": "https://george-fx.github.io/apitex_api/assets/types/02.png"
         },
         {
             "name": "Paypal",
