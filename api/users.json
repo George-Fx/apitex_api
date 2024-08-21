@@ -4,6 +4,16 @@
             "id": 1,
             "name": "Jazmine C.",
             "icon": "https://george-fx.github.io/apitex_api/assets/users/02.png"
+        },
+        {
+            "id": 2,
+            "name": "Bryan C.",
+            "icon": "https://george-fx.github.io/apitex_api/assets/users/03.png"
+        },
+        {
+            "id": 3,
+            "name": "Dalia H.",
+            "icon": "https://george-fx.github.io/apitex_api/assets/users/04.png"
         }
     ]
 }
