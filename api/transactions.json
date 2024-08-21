@@ -5,6 +5,7 @@
             "type": "Money transfer",
             "amount": 136.00,
             "currency": "USD",
+            "direction": "received",
             "transactionType": "credit",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
         },
