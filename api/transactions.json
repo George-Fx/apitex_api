@@ -1,29 +1,28 @@
 {
     "transactions": [
-      {
-        "name": "Lucian Pennington",
-        "type": "Money transfer",
-        "amount": 136.00,
-        "currency": "USD",
-        "transactionType": "credit",
-        "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
-      },
-      {
-        "name": "Electricity",
-        "type": "Utility bills",
-        "amount": -245.27,
-        "currency": "USD",
-        "transactionType": "debit",
-         "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
-      },
-      {
-        "name": "Paypal",
-        "type": "Deposits",
-        "amount": 500.00,
-        "currency": "USD",
-        "transactionType": "credit",
-         "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
-      }
+        {
+            "name": "Lucian Pennington",
+            "type": "Money transfer",
+            "amount": 136.00,
+            "currency": "USD",
+            "transactionType": "credit",
+            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+        },
+        {
+            "name": "Electricity",
+            "type": "Utility bills",
+            "amount": -245.27,
+            "currency": "USD",
+            "transactionType": "debit",
+            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+        },
+        {
+            "name": "Paypal",
+            "type": "Deposits",
+            "amount": 500.00,
+            "currency": "USD",
+            "transactionType": "credit",
+            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+        }
     ]
-  }
-  
+}
