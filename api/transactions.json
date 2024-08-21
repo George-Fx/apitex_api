@@ -5,7 +5,7 @@
             "type": "Money transfer",
             "amount": 136.00,
             "currency": "USD",
-            "direction": "received",
+            "direction": "in",
             "transactionType": "credit",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
         },
@@ -14,7 +14,7 @@
             "type": "Utility bills",
             "amount": 245.27,
             "currency": "USD",
-            "direction": "sent",
+            "direction": "out",
             "transactionType": "debit",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/02.png"
         },
@@ -23,7 +23,7 @@
             "type": "Deposits",
             "amount": 500.00,
             "currency": "USD",
-            "direction": "received",
+            "direction": "in",
             "transactionType": "credit",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/03.png"
         }
