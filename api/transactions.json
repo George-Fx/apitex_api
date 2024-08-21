@@ -5,7 +5,8 @@
         "type": "Money transfer",
         "amount": 136.00,
         "currency": "USD",
-        "transactionType": "credit"
+        "transactionType": "credit",
+        "icon": "https://george-fx.github.io/apitex_api/assets/assets/types/01.png"
       },
       {
         "name": "Electricity",
