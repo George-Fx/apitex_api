@@ -12,7 +12,7 @@
         {
             "name": "Electricity",
             "type": "Utility bills",
-            "amount": -245.27,
+            "amount": 245.27,
             "currency": "USD",
             "direction": "sent",
             "transactionType": "debit",
