@@ -1,0 +1,26 @@
+{
+    "transactions": [
+      {
+        "name": "Lucian Pennington",
+        "type": "Money transfer",
+        "amount": 136.00,
+        "currency": "USD",
+        "transaction_type": "credit"
+      },
+      {
+        "name": "Electricity",
+        "type": "Utility bills",
+        "amount": -245.27,
+        "currency": "USD",
+        "transaction_type": "debit"
+      },
+      {
+        "name": "Paypal",
+        "type": "Deposits",
+        "amount": 500.00,
+        "currency": "USD",
+        "transaction_type": "credit"
+      }
+    ]
+  }
+  
