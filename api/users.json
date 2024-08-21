@@ -19,6 +19,11 @@
             "id": 4,
             "name": "Marcus B.",
             "icon": "https://george-fx.github.io/apitex_api/assets/users/05.png"
+        },
+        {
+            "id": 5,
+            "name": "Angel B.",
+            "icon": "https://george-fx.github.io/apitex_api/assets/users/06.png"
         }
     ]
 }
