@@ -27,9 +27,9 @@
         {
             "id": 4,
             "name": "Utility bills",
-            "transactionsQty": "36",
-            "amount": 136.00,
-            "inPercent": "68",
+            "transactionsQty": 4,
+            "amount": 332.18,
+            "inPercent": 6,
             "icon": "https://george-fx.github.io/apitex_api/assets/icons/05.png"
         },
         {
