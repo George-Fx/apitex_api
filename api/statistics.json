@@ -3,9 +3,9 @@
         {
             "id": 1,
             "name": "Money transfer",
-            "transactionsQty": "36",
-            "amount": 136.00,
-            "inPercent": "68",
+            "transactionsQty": 36,
+            "amount": 7923.52,
+            "inPercent": 68,
             "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
         },
         {
