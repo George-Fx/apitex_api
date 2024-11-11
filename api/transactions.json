@@ -8,6 +8,7 @@
             "currency": "USD",
             "direction": "in",
             "transactionType": "credit",
+            "transactionsQty": "36",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
         },
         {
@@ -18,6 +19,7 @@
             "currency": "USD",
             "direction": "out",
             "transactionType": "debit",
+            "transactionsQty": "18",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/02.png"
         },
         {
@@ -28,6 +30,7 @@
             "currency": "USD",
             "direction": "in",
             "transactionType": "credit",
+            "transactionsQty": "6",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/03.png"
         }
     ]
