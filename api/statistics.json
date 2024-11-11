@@ -10,23 +10,19 @@
         },
         {
             "id": 2,
-            "name": "Electricity",
-            "type": "Utility bills",
-            "amount": 245.27,
-            "currency": "USD",
-            "direction": "out",
-            "transactionType": "debit",
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/02.png"
+            "name": "Money transfer",
+            "transactionsQty": "36",
+            "amount": 136.00,
+            "inPercent": "68",
+            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
         },
         {
             "id": 3,
-            "name": "Paypal",
-            "type": "Deposits",
-            "amount": 500.00,
-            "currency": "USD",
-            "direction": "in",
-            "transactionType": "credit",
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/03.png"
-        }
+            "name": "Money transfer",
+            "transactionsQty": "36",
+            "amount": 136.00,
+            "inPercent": "68",
+            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+        },
     ]
 }
