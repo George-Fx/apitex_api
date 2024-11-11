@@ -35,9 +35,9 @@
         {
             "id": 5,
             "name": "Medical supplies",
-            "transactionsQty": "2",
-            "amount": 136.00,
-            "inPercent": "68",
+            "transactionsQty": 2,
+            "amount": 76.09,
+            "inPercent": 4,
             "icon": "https://george-fx.github.io/apitex_api/assets/icons/06.png"
         }
     ]
