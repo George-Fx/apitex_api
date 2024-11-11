@@ -34,8 +34,8 @@
         },
         {
             "id": 5,
-            "name": "Utility bills",
-            "transactionsQty": "36",
+            "name": "Medical supplies",
+            "transactionsQty": "2",
             "amount": 136.00,
             "inPercent": "68",
             "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
