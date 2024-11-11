@@ -6,7 +6,7 @@
             "transactionsQty": 36,
             "amount": 7923.52,
             "inPercent": 68,
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/01.png"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "transactionsQty": "36",
             "amount": 136.00,
             "inPercent": "68",
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/04.png"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "transactionsQty": "36",
             "amount": 136.00,
             "inPercent": "68",
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/03.png"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "transactionsQty": "36",
             "amount": 136.00,
             "inPercent": "68",
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/01.png"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "transactionsQty": "2",
             "amount": 136.00,
             "inPercent": "68",
-            "icon": "https://george-fx.github.io/apitex_api/assets/types/01.png"
+            "icon": "https://george-fx.github.io/apitex_api/assets/icons/01.png"
         }
     ]
 }
