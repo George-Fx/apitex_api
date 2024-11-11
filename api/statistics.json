@@ -11,9 +11,9 @@
         {
             "id": 2,
             "name": "Food products",
-            "transactionsQty": "36",
-            "amount": 136.00,
-            "inPercent": "68",
+            "transactionsQty": 18,
+            "amount": 1398.27,
+            "inPercent": 12,
             "icon": "https://george-fx.github.io/apitex_api/assets/icons/04.png"
         },
         {
